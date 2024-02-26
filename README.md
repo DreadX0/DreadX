@@ -1,0 +1,2 @@
+# thursday-comp
+company
